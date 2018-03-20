@@ -1,0 +1,9 @@
+
+#people={"김연아":"피겨스케이팅","류현진" :'야구'}
+player={Yeona kim":"Figuer Skating","Hyunjin Ryu":"Baseball","Jiung Park","Soccer"}
+print(player)
+print(player.keys())
+
+for player_key in player.keys():
+    print(player_key)
+ 
