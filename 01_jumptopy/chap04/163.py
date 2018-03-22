@@ -1,0 +1,5 @@
+f = open('D:\\python_workspace\\openbigdata\\01_jumptopy\\chap04\\새파일.txt','r')
+f = open('.\\새파일.txt','r')
+line = f.readline()
+print(line)
+f.close()
